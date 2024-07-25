@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=benar&vCenter=benar&repeat=benar&random=palsu&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Firmansyah" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Firmansyah" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzzzx&label=Profile%20views&color=0e75b6&style=flat" alt="manzzzx" /> </p>
 
@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manzzzx&show_icons=true&locale=en" alt="manzzzx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manzzzx&" alt="manzzzx" /></p>
+
+
