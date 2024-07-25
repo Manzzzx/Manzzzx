@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Firmansyah</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=benar&vCenter=benar&repeat=benar&random=palsu&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Firmansyah" alt="Typing SVG" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzzzx&label=Profile%20views&color=0e75b6&style=flat" alt="manzzzx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manzzzx" alt="manzzzx" /></a> </p>
