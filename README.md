@@ -2,4 +2,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzzzx&label=Profile%20views&color=0e75b6&style=flat" alt="manzzzx" /> </p>
 
-- 🌱 I’m currently learning **C++,Python,Javascript,Typescript,TailwindCSS**
+- 🌱 I’m currently learning anything useful
