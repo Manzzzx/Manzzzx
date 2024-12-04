@@ -1,4 +1,4 @@
-![](https://count.getloli.com/get/@:manzzzx?theme=gelbooru-h)
+[![](https://count.getloli.com/get/@:manzzzx?theme=gelbooru-h)]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzzzx&label=Profile%20views&color=0e75b6&style=flat" alt="manzzzx" /> </p>
