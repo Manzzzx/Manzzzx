@@ -1,6 +1,3 @@
-![](https://count.getloli.com/get/@:manzzzx?theme=gelbooru-h)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzzzx&label=Profile%20views&color=0e75b6&style=flat" alt="manzzzx" /> <a href="https://wakatime.com/@4cb28aa2-08b9-4285-b693-31c9469197ae"><img src="https://wakatime.com/badge/user/4cb28aa2-08b9-4285-b693-31c9469197ae.svg" alt="Total time coded since Nov 15 2024" /></a></p>
 
 
